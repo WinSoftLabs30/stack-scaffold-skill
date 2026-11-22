@@ -1,5 +1,5 @@
 ---
-name: Stack Scaffold (manual edition)
+name: Stack Scaffold
 description: Scaffold a runnable Next.js 15 app with Tailwind, a Supabase client, and Stripe checkout plus a signature-verified webhook. Runs in mock mode with zero keys, and an environment check blocks "done" until the required variables are present and valid. Use when asked to scaffold or start a new fullstack app.
 ---
 
